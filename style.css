@@ -1,0 +1,25 @@
+body
+{
+    color: rgb(62, 189, 232);
+    background: rgb(255, 255, 255);
+    stroke: gray;
+}
+
+.heading
+{
+    width: 80%
+    font-size: 22px;
+}
+
+
+#camera
+{
+    border: 2px dashed rgb(84, 78, 78);
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_members, #result_member_name , #result_member_accuracy
+{
+    color: rgb(0, 0, 0);
+}
